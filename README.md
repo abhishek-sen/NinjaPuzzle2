@@ -26,7 +26,7 @@ where, [Path1] = [ [r1,c1], [r2,c2], .., [rM,cM] ] etc.  ([r,c] = [row value, co
 
 
 
-Overview to the solution
+Overview of the solution
 ------------------------
 
 Overall problem of path-finding through grid cells have been cast as a graph search problem.
