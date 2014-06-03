@@ -1,5 +1,6 @@
 
 This is an implementation of "The Kung Fu Packing Crate Maze" game using Java (1.6)
+It is a typical example of state space exploratory game.
 
 
 LIBRARIES
