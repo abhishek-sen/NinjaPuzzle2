@@ -14,7 +14,7 @@ Running the code :
 -----------------
 
 I have implemented and tested the code from IntelliJ IDE and didn't find enough time to test the code by running from command line.
-At this point, we need to change the input game configuration file by modifying the variables "configFile" and "outFile" with appropriate file path.
+At this point, we need to change the input game configuration file by modifying the variables "configFile" and "outFile" (defined on main.java) with appropriate file path.
 
 Output format :
 --------------
